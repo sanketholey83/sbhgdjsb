@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T12:34:59 IST" name="Default suite" finished-at="2022-08-22T12:35:09 IST" duration-ms="10108">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T12:34:59 IST" name="Default test" finished-at="2022-08-22T12:35:09 IST" duration-ms="10108">
+      <class name="TestCases.SoftAssertionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.SoftAssertionTest@3c22fc4c]" started-at="2022-08-22T12:34:59 IST" name="setup" finished-at="2022-08-22T12:35:09 IST" duration-ms="9533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="softassertion()[pri:0, instance:TestCases.SoftAssertionTest@3c22fc4c]" started-at="2022-08-22T12:35:09 IST" name="softassertion" finished-at="2022-08-22T12:35:09 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- softassertion -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.SoftAssertionTest@3c22fc4c]" started-at="2022-08-22T12:35:09 IST" name="exit" finished-at="2022-08-22T12:35:09 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- TestCases.SoftAssertionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
